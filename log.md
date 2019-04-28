@@ -17,3 +17,12 @@
 **Thoughts:** I got off to a good start today, but I am having a bit of trouble with positioning the text within the cards. It seems to have extra padding and I'm not sure if this is an issue caused by Flexbox or not. Tomorrow I will try and fix it.
 
 **Link(s) to work:** [Day 1 - 100 Days of Code](https://polygami.github.io/days/1/day1.html)
+
+---
+
+### Day 2: April 28, 2019
+**Today's Progress**: I spent a good few hours today adding some CSS transitions to each of the cards in my page. I also added a JavaScript file, to add a placeholder image to incomplete days and place a day-specific thumbnail to each completed day, based on a naming convention. Lastly, I added the rest of the 100 cards, and added some text at the top of the page, explaining the challenge and the projects.
+
+**Thoughts:** I am happy with the hover effects that I added. I'm still not 100% happy with the design of the page, but I guess that boils down to developing before designing. I also still need to refresh myself on how Flexbox works, so that my card subheadings look better. For now I have removed them, though.
+
+**Link(s) to work:** [Day 2 - 100 Days of Code](https://polygami.github.io/days/2/day2.html)
