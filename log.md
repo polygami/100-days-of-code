@@ -25,6 +25,8 @@
 
 **Thoughts:** I am happy with the hover effects that I added. I'm still not 100% happy with the design of the page, but I guess that boils down to developing before designing. I also still need to refresh myself on how Flexbox works, so that my card subheadings look better. For now I have removed them, though.
 
+![](./images/day2.gif)
+
 **Link(s) to work:** [Day 2 - 100 Days of Code](https://polygami.github.io/days/2/day2.html)
 
 ---
@@ -39,6 +41,8 @@ In addition, I also completed 46 items on [freeCodeCamp](https://www.freecodecam
 I don't want to dwell on the page for that long, as it is meant to be a place to hold my work, not the work itself.
 
 In my free slots, I worked my way through 46 items on [freeCodeCamp](https://www.freecodecamp.org/fcc10c47b53-d9c5-4677-b26b-28b2d960a55b), and am finding them pretty simple so far. I did complete Colt Steele's [Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/) though, so I am familiar, and comfortable with the majority of the material. In any case, it is good to refresh my memory and work towards getting those certificates!
+
+![](./images/day3-raising-the-bar.gif)
 
 **Link(s) to work:**
 - [Day 3 - 100 Days of Code](https://polygami.github.io/days/3/day3.html)
