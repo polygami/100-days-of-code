@@ -47,3 +47,17 @@ In my free slots, I worked my way through 46 items on [freeCodeCamp](https://www
 **Link(s) to work:**
 - [Day 3 - 100 Days of Code](https://polygami.github.io/days/3/day3.html)
 - [My freeCodeCamp Profile](https://polygami.github.io/days/3/day3.html)
+
+---
+
+### Day 4: May 1, 2019
+**Today's Progress**: Today I decided to work on my CSS skills. I started to create Eric Cartman from South Park in pure CSS.
+
+**Thoughts:** It's surprisingly difficult to make rudimentary shapes with CSS. I realised that my skills in CSS shapes and positioning weren't that great, and decided to spend 3 days doing a "simple" CSS project. I assumed that making a South Park character would be straight forward, but when dealing with percentiles as a unit of measurement, it can be quite difficult to fathom. My main takeaways today were:
+- Use classes for general properties
+- Use IDs for specific properties
+- If a shape doesn't look right, check that height and width aren't mixed up!
+
+![](./images/cartman-day1.jpg)
+
+**Link(s) to work:** [Day 4 - 100 Days of Code](https://polygami.github.io/days/4/day4.html)
