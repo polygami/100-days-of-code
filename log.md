@@ -61,3 +61,14 @@ In my free slots, I worked my way through 46 items on [freeCodeCamp](https://www
 ![](./images/cartman-day1.jpg)
 
 **Link(s) to work:** [Day 4 - 100 Days of Code](https://polygami.github.io/days/4/day4.html)
+
+---
+
+### Day 5: May 2, 2019
+**Today's Progress**: Today I gained a better understanding of how absolute and relative positioning works and learned a few tricks on how to make irregular shapes (like Cartman's right glove). I tried to do as much as I could with `transformation` and `border-radius` alone, but some things required `clip-path` (which felt a bit like cheating), but I couldn't see a better way without using SVG. Most important though, I finished in 2 days instead of 3, as I have initial anticipated!
+
+**Thoughts:** It is interesting trying to think about how to break shapes into basic forms and translate a visual reference into code. There *were* a few times where I used [Clippy](https://bennettfeely.com/clippy/), which was massively helpful, but there were a few parts where I manually added the points along the path using only estimation, trial and error. It is obviously a very ineffecient way of doing things, but it served its purpose as a personal challenge.
+
+![](./images/100-doc-thumb-005.jpg)
+
+**Link(s) to work:** [Eric Cartman in Pure CSS](https://polygami.github.io/days/5/day5.html)
