@@ -72,3 +72,16 @@ In my free slots, I worked my way through 46 items on [freeCodeCamp](https://www
 ![](./images/100-doc-thumb-005.jpg)
 
 **Link(s) to work:** [Eric Cartman in Pure CSS](https://polygami.github.io/days/5/day5.html)
+
+---
+
+### Day 6: May 4, 2019
+**Today's Progress**: I completely redesigned my 100DoC page. Before, I had just gone in and started coding, but I wanted to put more time into properly designing the layout.
+
+After completing the redesign, I *began* coding it and reacquainting myself with Flexbox and built a nav bar.
+
+**Thoughts:** In terms of how much I *coded* today, it doesn't *appear* to be much. Although, I did take a few hours in Photoshop, doing some design work, I actually did a fair bit of coding as well. I have used flexbox in the past, but I'd kind of forgotten how it all works. I spent time (re)reading through the [CSS Tricks Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) and used my recovered knowledge to build a simple nav bar, using my design as a reference. There is a lot of space to fill on the new page, but with my PSD as a guide, and my improved understanding of CSS, I think I can finish the page tomorrow.
+
+![](./images/100-doc-thumb-006.jpg)
+
+**Link(s) to work:** [The early stages of my new page](https://polygami.github.io/days/6/day6.html)
