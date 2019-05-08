@@ -113,3 +113,24 @@ I think my page still needs work, though. Mainly, I need to sort out my overlay 
 ![](images\day8-responsive.gif)
 
 **Link(s) to work:** [My updated, responsive page](https://polygami.github.io/days/8/day8.html)
+
+---
+
+### Day 9: May 8, 2019
+**Today's Progress**: Today I began freeCodeCamp's [Responsive Web Design Projects - Build a Tribute Page](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page).
+
+For my tribute subject, I chose former professional wrestler and best-selling author, Mick Foley.
+
+I decided to make things less "digital" looking by using western-style fonts and a Polaroid effect for the main image, which involved the use or `transformation`, and both `inset` and regular `box-shadow` effects.
+
+In-line with Foley's in-ring persona, I also wanted to go with an asymmetrical design and have text and images slightly rotated to look less clean. This is a theme I will continue while creating the rest of the page.
+
+**Thoughts:** Today, I didn't have all that much time for actual coding. Work and family leave a few short hours for doing these things but the goal is to keep going, even if I can just squeeze in half an hour once my son is asleep!
+
+Plus, I want to not only *code* websites, but *design* them as well. I have been a designer for many years and have worked in several different aspects of digital design, but I really want to be able to focus specifically on websites from now on.
+
+On my journey to and from work I started watching [DESIGN RULES: Principles + Practices for Great UI Design](https://www.udemy.com/design-rules/), which I can already tell, is going to be very helpful in thinking about design decisions.
+
+![](/images/day9-tribute-page.jpg)
+
+**Link(s) to work:** **Link(s) to work:** [The hero area of my FCC tribute page](https://polygami.github.io/days/9/day9.html)
