@@ -85,3 +85,31 @@ After completing the redesign, I *began* coding it and reacquainting myself with
 ![](./images/100-doc-thumb-006.jpg)
 
 **Link(s) to work:** [The early stages of my new page](https://polygami.github.io/days/6/day6.html)
+
+---
+
+### Day 7: May 5, 2019
+**Today's Progress**: I added *a lot* today. I first added the content to the hero area, and created a tag bar, with animated buttons, with on/off states and a JavaScript function to toggle their state.
+
+I then learned about, and implemented, a CSS grid system for my cards.
+
+Lastly, I spent time creating functions to hide/show cards, based on their "tags" and which tag buttons are enabled/disabled. The card tags are actually just additional text added to their class lists.
+
+**Thoughts:** I feel that I accomplished a great deal today. Not only did I complete 90% of my new page, I also implemented a tag filter system for the first time, without reading how to do it. Not only that, but before today, I had never used CSS grids before. I've got to say that I think that it is an absolutely great feature, and I will be using this a lot in future projects. The only thing I didn't quite understand was how to close the gaps when using differently sized grid elements. It can happen where a large card in the grid goes onto the next line and leaves an empty space. I'm sure that this is just a gap in my understanding of the subject, though and I will look into it further tomorrow.
+
+![](images\day-7-grids-and-tags.gif)
+
+**Link(s) to work:** [New hero area, tag filter system and CSS grid](https://polygami.github.io/days/7/day7.html)
+
+---
+
+### Day 8: May 7, 2019
+**Today's Progress**: I made my page responsive, using breakpoints and flexbox and re-factored a lot of my CSS into separate files. I also made a navigation menu for small devices, which can be opened/closed by clicking the "hamburger" icon.
+
+**Thoughts:** Already on day 8 and I feel like I have made a lot of progress. A lot of these things I have learned before, but always avoided doing my own projects because tutorials were much more comfortable! I am starting to grow in confidence in my skills and can see ways to approach certain problems.
+
+I think my page still needs work, though. Mainly, I need to sort out my overlay text on the cards. It would also be good to find away to fix all of my broken links for the "day" folders.
+
+![](images\day8-responsive.gif)
+
+**Link(s) to work:** [My updated, responsive page](https://polygami.github.io/days/8/day8.html)
