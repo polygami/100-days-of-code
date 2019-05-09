@@ -133,4 +133,21 @@ On my journey to and from work I started watching [DESIGN RULES: Principles + Pr
 
 ![](/images/day9-tribute-page.jpg)
 
-**Link(s) to work:** **Link(s) to work:** [The hero area of my FCC tribute page](https://polygami.github.io/days/9/day9.html)
+**Link(s) to work:** [The hero area of my FCC tribute page](https://polygami.github.io/days/9/day9.html)
+
+---
+
+### Day 10: May 9, 2019
+**Today's Progress**: Today I worked on the tribute page again. After coming and looking at it today, I realised it needed to look more visually interesting. Elaborating further on the "grunge" style, I researched how to put SVG's into my page, to create some interesting separations between the main content and the headers and footers.
+
+I also worked on the colour scheme, and made it much more bold and impactful.
+
+I also signed up for [Chingu](https://chingu.io/), which gives developers the opportunity to work collaboratively and experience working in a team.
+
+**Thoughts:** Again, it would be nice to have more time to work on things, but unfortunately my schedule doesn't permit it! I definitely like the new look though. Just need to find an interesting way to display the main content now and fulfill the rest of the criteria for the FCC challenge.
+
+The weekend is here tomorrow, so I will have some more time, hopefully.
+
+![](/images/day10-tribute-page.jpg)
+
+**Link(s) to work:** [Day 2 of my FCC tribute page](https://polygami.github.io/days/10/day10.html)
