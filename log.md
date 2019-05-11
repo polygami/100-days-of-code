@@ -151,3 +151,14 @@ The weekend is here tomorrow, so I will have some more time, hopefully.
 ![](/images/day10-tribute-page.jpg)
 
 **Link(s) to work:** [Day 2 of my FCC tribute page](https://polygami.github.io/days/10/day10.html)
+
+---
+
+### Day 11: May 11, 2019
+**Today's Progress**: Today I met up with a friend and we ended up working on a Snake clone. We both worked separately, occasionally discussing problems we were both having. 
+
+**Thoughts:** It was fun to do something completely different from the past 10 days. It's interesting trying to get into the mind set of an old school game developer and think about building arrays to represent positional data, and manually code "collisions". One of the things I am happiest with about my approach, is saving the positions of the snake as an array of 2D coordinates and "moving" the snake by using a heap style method (removing the first element and then adding to the end of the array).
+
+![](/images/day-11-snek.gif)
+
+**Link(s) to work:** [Snek by Liam Owen on CodePen.io](https://codepen.io/polygami/pen/JqKKVX)
